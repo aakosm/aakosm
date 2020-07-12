@@ -1,8 +1,5 @@
 ### Hi, I'm Akos
 
-<!--
-**aakosm/aakosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
-
 I am a research fellow at the Centre for Social Sciences, Hungarian Academy of Sciences Centre of Excellence. In this space you can find my open sourced courses on learning R, doing data viz and statistical analysis. 
 
 ### You can also find me here:
